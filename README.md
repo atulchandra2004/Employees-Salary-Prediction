@@ -72,7 +72,7 @@ Streamlit Deployment
 
 | Input | Description |
 |-------|-------------|
-| Years of Experience | Job Rating | Employee performance rating |
+| Years of Experience | Employee's work experience| Job Rating | Employee performance rating |
 
 ### 🎯 Output
 
