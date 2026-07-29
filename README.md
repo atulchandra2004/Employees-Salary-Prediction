@@ -19,7 +19,8 @@ The project follows the complete Machine Learning workflow, including data prepr
 
 | Technology | Purpose |
 |------------|---------|
-| Python || Pandas | Data Processing |
+| Python ||Programming Language|
+| Pandas | Data Processing |
 | NumPy | Numerical Computation |
 | Scikit-learn | Machine Learning |
 | Joblib | Model Serialization |
